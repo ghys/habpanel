@@ -11,12 +11,12 @@ msgstr ""
 "Last-Translator: ghys <github@schaus.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-01-17 05:31-0500\n"
+"PO-Revision-Date: 2018-01-17 05:41-0500\n"
 
 #.Displayed below the arrow when starting
 msgctxt "tutorial.welcome"
 msgid "Welcome to HABPanel!"
-msgstr ""
+msgstr "Bienvenue dans HABPanel !"
 
 #.Second line displayed below the arrow when starting
 msgctxt "tutorial.clickheretobegin"
