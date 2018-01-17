@@ -1,40 +1,22 @@
-{
-    "OK": "OK",
-    "Cancel": "Annuler",
-    "Delete": "Supprimer",
-    "Save": "Sauver",
-    "Name": "Nom",
-    "Icon": "Icône",
-    "Icons": "Icônes",
-    "Backdrop Icon": "Icône de fond",
-    "Size": "Taille",
-    "Font size": "Taille de police",
-    "Color": "Couleur",
-    "Colors": "Couleurs",
-    "Transparent": "Transparent",
-    "openHAB Item": "Item openHAB",
-    "Speak": "Parler",
-    "Refresh": "Rafraîchir",
-    "Fullscreen": "Plein écran",
-    "Help": "Aide",
-    "error.connectionlost": "Connexion perdue ! Attente de reconnexion...",
-    "tutorial.welcome": "Bienvenue dans HABPanel !",
-    "tutorial.clickheretobegin": "Appuyez ici pour commencer.",
-    "tutorial.editmode": "Vous êtes maintenant en mode édition, dans lequel vous pouvez concevoir des tableaux de bord.",
-    "tutorial.createfirstdashboard": "Appuyez ici pour créer votre premier tableau de bord...",
-    "tutorial.importpanel": "...ou bien ici pour restaurer un panneau existant sur le serveur",
-    "tutorial.enterdesigner": "Appuyez dans la tuile pour concevoir le tableau de bord.",
-    "tutorial.adjustnbcolumns": "Ajustez le nombre de colonnes",
-    "tutorial.saveonserver": "Puis sauvez sur le serveur openHAB!",
-    "menu.addnewdashboard": "Nouveau tableau de bord",
-    "menu.panelsettings": "Paramètres panneau",
-    "menu.dialog.newdashboard.title": "Nouveau tableau de bord",
-    "menu.dialog.newdashboard.message": "Nom de votre nouveau tableau de bord :",
-    "menu.dialog.removedashboard.title": "Supprimer le tableau de bord",
-    "menu.dialog.removedashboard.message": "Etes-vous sûr de vouloir supprimer le tableau de bord : ",
-    "dashboard.toolbar.speak": "Parler",
-    "dashboard.toolbar.refresh": "Rafraîchir",
-    "dashboard.toolbar.fullscreen": "Plein écran",
-    "dashboard.speaknow": "Parler maintenant...",
-    "dashboard.speakerror": "Erreur : "
-}
+msgid ""
+msgstr ""
+"Welcome to HABPanel!\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ghys-habpanel\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /i18n/web/assets/i18n/main/en.po\n"
+"Project-Id-Version: ghys-habpanel\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: ghys <github@schaus.net>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2018-01-17 04:35-0500\n"
+
+#.Displayed below the arrow when starting
+msgid "tutorial.welcome"
+msgstr ""
+
+msgid "tutorial.clickheretobegin"
+msgstr ""
+
