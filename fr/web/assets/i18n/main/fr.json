@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Welcome to HABPanel!\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ghys-habpanel\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /i18n/web/assets/i18n/main/en.po\n"
+"Project-Id-Version: ghys-habpanel\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: ghys <github@schaus.net>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2018-01-17 04:50-0500\n"
+
+#.Displayed below the arrow when starting
+msgctxt "tutorial.welcome"
+msgid "Welcome to HABPanel!"
+msgstr ""
+
+#.Second line displayed below the arrow when starting
+msgctxt "tutorial.clickheretobegin"
+msgid "Click or tap here to begin."
+msgstr ""
+
