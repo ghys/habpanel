@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: ghys <github@schaus.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-01-18 10:13-0500\n"
+"PO-Revision-Date: 2018-01-18 10:34-0500\n"
 
 #. Common term
 msgctxt "OK"
@@ -108,42 +108,52 @@ msgctxt "error.connectionlost"
 msgid "Connection lost! Trying to reconnect..."
 msgstr "Connexion perdue ! Attente de reconnexion..."
 
+#. Appears below the edit mode button when there's no dashboard - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.welcome"
 msgid "Welcome to HABPanel!"
 msgstr "Bienvenue dans HABPanel !"
 
+#. Appears below the edit mode button when there's no dashboard - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.clickheretobegin"
 msgid "Click or tap here to begin."
 msgstr "Appuyez ici pour commencer."
 
+#. Appears at the top of the screen when in edit mode and no dashboards are present
 msgctxt "tutorial.editmode"
 msgid "You're now in edit mode, where you can design dashboards."
 msgstr "Vous êtes maintenant en mode édition, dans lequel vous pouvez concevoir des tableaux de bord."
 
+#. Hint for the bottom left link when in edit mode and no dashboards are present - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.createfirstdashboard"
 msgid "Click or tap here to create your first dashboard..."
 msgstr "Appuyez ici pour créer votre premier tableau de bord..."
 
+#. Hint for the bottom right link when in edit mode and no dashboards are present - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.importpanel"
 msgid "...or here to restore a panel from the server"
 msgstr "...ou bien ici pour restaurer un panneau existant sur le serveur"
 
+#. Hint in the bottom left part of the page when in edit mode and only one dashboard is present - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.enterdesigner"
 msgid "Click or tap inside the tile to enter the dashboard designer."
 msgstr "Appuyez dans la tuile pour concevoir le tableau de bord."
 
+#. Hint in the bottom center part of the page above the column number slider when in edit mode and only one dashboard is present - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.adjustnbcolumns"
 msgid "Adjust the number of columns"
 msgstr "Ajustez le nombre de colonnes"
 
+#. Hint for the bottom left link when in edit mode and only one dashboard is present - please use the Chrome developer tools and check with phone resolutions: iPhone 6, Nexus 5 etc.!
 msgctxt "tutorial.saveonserver"
 msgid "Save on the openHAB server when done!"
 msgstr "Puis sauvez sur le serveur openHAB!"
 
+#. Displayed when no dashboard is present and editing is locked in the service configuration
 msgctxt "tutorial.editingdisabled"
 msgid "Editing is disabled on the server!"
 msgstr "L'édition est désactivée sur le serveur !"
 
+#. Displayed when no dashboard is present and editing is locked in the service configuration
 msgctxt "tutorial.unlockedit"
 msgid "Please go to Paper UI and unlock editing to use HABPanel on this device."
 msgstr "Veuillez aller dans Paper UI et déverrouiller l'édition pour utiliser HABPanel sur cet appareil."
