@@ -12,7 +12,7 @@ msgstr ""
 "Last-Translator: ghys <github@schaus.net>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2018-01-18 08:48-0500\n"
+"PO-Revision-Date: 2018-01-18 09:04-0500\n"
 
 msgctxt "OK"
 msgid "OK"
@@ -92,11 +92,11 @@ msgstr ""
 
 msgctxt "tutorial.welcome"
 msgid "Welcome to HABPanel!"
-msgstr ""
+msgstr "Witamy w HABPanel!"
 
 msgctxt "tutorial.clickheretobegin"
 msgid "Click or tap here to begin."
-msgstr ""
+msgstr "Naciśnij tutaj, aby rozpocząć."
 
 msgctxt "tutorial.editmode"
 msgid "You're now in edit mode, where you can design dashboards."
