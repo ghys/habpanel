@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: ghys <github@schaus.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-01-18 10:13-0500\n"
+"PO-Revision-Date: 2018-01-18 10:21-0500\n"
 
 #. Save button in the dashboard designer
 msgctxt "designer.save"
@@ -255,7 +255,7 @@ msgstr "Contient :"
 #. Link to create a panel configuration from the current configuration
 msgctxt "settings.storage.panelconfiguration.save"
 msgid "Save the current configuration to a new panel configuration"
-msgstr ""
+msgstr "Sauver la configuration actuelle dans une nouvelle configuration de panneau"
 
 #. Title of the dialog box when creating a new panel configuration
 msgctxt "settings.storage.panelconfiguration.dialog.title"
@@ -385,7 +385,7 @@ msgstr "Tester"
 #. Checkbox
 msgctxt "settings.panel.voicesupport.floating_speech_button"
 msgid "Display a floating speech button at the bottom of the screen"
-msgstr ""
+msgstr "Afficher un bouton flottant dans le bas de l'écran"
 
 #. Dropdown header
 msgctxt "settings.panel.voicesupport.speech_synthesis_item"
